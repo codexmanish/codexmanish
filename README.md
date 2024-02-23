@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @codexmanish
-<!---
-codexmanish/codexmanish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 🌍
